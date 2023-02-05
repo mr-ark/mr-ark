@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter,Dart**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/mr-ark?tab=repositorys](https://www.github.com/mr-ark?tab=repositorys)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/mr-ark?tab=repositories)
 
 - 📫 How to reach me **GreatDeveloperark@gmail.com**
 
