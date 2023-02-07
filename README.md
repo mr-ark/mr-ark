@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I This you will follow me**
 
-- ☮** Age is Just a Number...Do what your Passion told's you**
+- ☮**Age is Just a Number...Do what your Passion told's you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
