@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I This you will follow me**
 
+- ☮** Age is Just a Number...Do what your Passion told's you**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mr_ark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mr_ark" height="30" width="40" /></a>
