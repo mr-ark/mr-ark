@@ -5,11 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-ark" alt="mr-ark" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/mr_ark" target="blank"><img src="https://img.shields.io/twitter/follow/mr_ark?logo=twitter&style=for-the-badge" alt="mr_ark" /></a> </p>
+
 - 🌱 I’m currently learning **Flutter,Dart**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/mr-ark?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://www.github.com/mr-ark?tab=repositorys](https://www.github.com/mr-ark?tab=repositorys)
 
 - 📫 How to reach me **GreatDeveloperark@gmail.com**
+
+- ⚡ Fun fact **I This you will follow me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-ark&show_icons=true&locale=en" alt="mr-ark" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ark&" alt="mr-ark" /></p>
-
