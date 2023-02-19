@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **GreatDeveloperark@gmail.com**
 
-- 👨‍💻 CO-Developer [github.com/mr-vinax](github.com/mr-vinax)
+- 👨‍💻 CO-Developer [Vinay](https://www.github.com/mr-vinax)
 
 - ⚡ Age is Just a Number **Do what your Passion toldss You**
 
