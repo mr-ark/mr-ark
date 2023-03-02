@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_mr_ark_" target="blank"><img src="https://img.shields.io/twitter/follow/_mr_ark_?logo=twitter&style=for-the-badge" alt="_mr_ark_" /></a> </p>
 
-- 🔭 I’m currently working on **Some Games...**
+- 🔭 I’m currently working on **a project**
 
 - 🌱 I’m currently learning **C#,Unity**
 
@@ -18,6 +18,8 @@
 - 👨‍💻 CO-Developer [Vinay](https://www.github.com/mr-vinax)
 
 - ⚡ Age is Just a Number **Do what your Passion toldss You**
+
+- ☮️ Sometimes i become a web designer also..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
