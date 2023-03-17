@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Annuay</h1>
-<h3 align="center">A passionate Game developer from India</h3>
+<h3 align="center"></h3>
 
 <!-- Profile Views -->
 <p align="left">
